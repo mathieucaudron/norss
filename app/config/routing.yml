@@ -1,0 +1,4 @@
+digeetis_api:
+    resource: "@DigeetisAPIBundle/Resources/config/routing.yml"
+    prefix:   /API
+

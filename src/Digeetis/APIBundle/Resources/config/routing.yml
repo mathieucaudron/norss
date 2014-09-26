@@ -1,0 +1,3 @@
+digeetis_api_homepage:
+    path:     /stream
+    defaults: { _controller: DigeetisAPIBundle:API:getStream }

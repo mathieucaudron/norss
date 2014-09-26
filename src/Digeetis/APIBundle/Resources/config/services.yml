@@ -1,0 +1,7 @@
+parameters:
+#    digeetis_api.example.class: Digeetis\APIBundle\Example
+
+services:
+#    digeetis_api.example:
+#        class: %digeetis_api.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
